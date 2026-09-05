@@ -1,0 +1,13 @@
+{
+  "greetings": {
+    "missing_role": "请前往 {channel} 选择你的身份组"
+  },
+  "social": {
+    "hello": "你好，{author}！",
+    "gezi": "我的创造者~ <3",
+    "hug_self": "🌸 **薇薇安** 给了 {author} 一个温暖的拥抱！",
+    "hug_target": "🌸 {author} 给了 {target} 一个大大的拥抱！",
+    "pat_self": "🌸 **薇薇安** 轻抚了 {author} 的头。做得好！",
+    "pat_target": "🌸 {author} 摸了摸 {target} 的头！"
+  }
+}
