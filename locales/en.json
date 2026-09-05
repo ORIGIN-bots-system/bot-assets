@@ -1,0 +1,13 @@
+{
+  "greetings": {
+    "missing_role": "Please, choose your role at {channel}"
+  },
+  "social": {
+    "hello": "Hello, {author}!",
+    "gezi": "My creator~ <3",
+    "hug_self": "🌸 **Vivian** gives {author} a warm hug!",
+    "hug_target": "🌸 {author} gives {target} a big hug!",
+    "pat_self": "🌸 **Vivian** gently pats {author} on the head. Good job!",
+    "pat_target": "🌸 {author} gently pats {target} on the head!"
+  }
+}
