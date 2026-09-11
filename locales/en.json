@@ -11,6 +11,6 @@
     "pat_target": "🌸 {author} gently pats {target} on the head!"
   },
   "welcome": {
-    "message": "👋 Welcome {member} to **ORIGIN**! Please choose your role in {channel} to unlock all channels."
+    "message": "👋 Welcome {member} to **ORIGIN**! Please read the rules and click the verify button in {channel} to unlock the server."
   }
 }

@@ -11,6 +11,6 @@
     "pat_target": "🌸 {author} 摸了摸 {target} 的头！"
   },
   "welcome": {
-    "message": "👋 欢迎 {member} 加入 **ORIGIN**！请前往 {channel} 选择你的身份组以解锁所有频道。"
+    "message": "👋 欢迎 {member} 加入 **ORIGIN**！请前往 {channel} 阅读规则并点击验证按钮以解锁服务器。"
   }
 }
